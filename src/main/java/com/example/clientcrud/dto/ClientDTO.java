@@ -31,4 +31,5 @@ public class ClientDTO {
         birthDate = entity.getBirthDate();
         children = entity.getChildren();
     }
+
 }
