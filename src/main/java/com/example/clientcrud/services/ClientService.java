@@ -5,7 +5,6 @@ import com.example.clientcrud.entities.Client;
 import com.example.clientcrud.repositories.ClientRepository;
 import com.example.clientcrud.services.exceptions.ResourceNotFoundException;
 import jakarta.persistence.EntityNotFoundException;
-import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
